@@ -1,0 +1,9 @@
+ <start>
+X:19
+T:Dusty Miller, TheR:hop jig
+D:Tommy Keane: The Piper's Apron
+Z:id:hn-slipjig-19
+M:9/8
+K:D
+~A3 c edccd cE ef  eaBcBeBdd: ,fD Tec c A ccz  B=Bge,BdbaBDd BcAd BBDcsBe B
+Bee cc2beGBgeBeEBaA  eg= d 
